@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 ### We are building something, until then have a look [here](https://hosteldevta.com)
+
+<p align="center">Open Source Contributors are welcome to contribute or host their projects with us.</p>
 <!--
 
 **Here are some ideas to get you started:**
